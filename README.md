@@ -2,6 +2,8 @@
 pizza database
 
 insert csv data to prosgresql data base
+![image](https://user-images.githubusercontent.com/98679146/203620014-debcac90-3f9c-459b-8b92-b14ab7c6660a.png)
+
 
 ![image](https://user-images.githubusercontent.com/98679146/203609347-de76d4cb-2df3-4787-a66f-5ce97bf1e54e.png)
 
